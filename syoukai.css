@@ -1,0 +1,85 @@
+*{text-align: center;
+     color: #ffffff;
+}
+
+header,footer,h{
+     font-size: 50px;
+     color:#ffffff;
+     padding: 8px 19px;
+     margin: 2em 0;
+     background: #cde4ff6b;
+
+}
+footer{
+     font-size:30px;
+     color: #ffffff;
+
+}
+.syoukaibun{     font-size: 50px;
+     color:#ffffff;
+     padding: 8px 19px;
+     margin: 5em 0!important;
+     background: #cde4ff6b;
+
+
+}
+
+
+body{background-image:url(toyama.jpg);
+     background-repeat:no-repeat;
+     background-position: center center;
+     background-size:cover;
+     height: 100vh;
+     background-attachment: fixed;
+     font-family: "ＭＳ 明朝";
+     
+}
+.aaa{position: relative;
+margin-top:100px auto;
+}
+.aaa p{font-size:30px;
+}
+
+
+.img_wrap{
+     border: 1px solid #ddd;
+     width: 700px;
+     height: 386px;
+     margin: 0 auto;
+     overflow: hidden;
+   }
+   .img_wrap img{
+     width: 100%;
+     transform: scale(1.1);
+     cursor: pointer;
+     filter: blur(5px);
+     transition-duration: 0.5s;
+   }
+   .img_wrap img:hover{
+     filter: blur(0);
+     transition-duration: 0.5s;
+   }
+   .img_wrap {
+     position: relative;
+     }
+   
+   .img_wrap p {
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     -ms-transform: translate(-50%,-50%);
+     -webkit-transform: translate(-50%,-50%);
+     transform: translate(-50%,-50%);
+     margin:0;
+     padding:0;
+     }
+   
+   .img_wrap img {
+     width: 100%;
+     }
+     p.font1{
+          font-size: 100px;
+          white-space: nowrap;
+          font-family:"851マカポップ",sans-serif;
+     }
+     
