@@ -1,5 +1,6 @@
 *{text-align: center;
      color: #ffffff;
+     font-family: 'Noto Serif JP', serif;
 }
 
 header,footer,h{
@@ -31,7 +32,7 @@ body{background-image:url(toyama.jpg);
      background-size:cover;
      height: 100vh;
      background-attachment: fixed;
-     font-family: "ＭＳ 明朝";
+     
      
 }
 .aaa{position: relative;
@@ -80,6 +81,6 @@ margin-top:100px auto;
      p.font1{
           font-size: 100px;
           white-space: nowrap;
-          font-family:"851マカポップ",sans-serif;
+          
      }
      
