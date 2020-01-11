@@ -27,6 +27,7 @@ footer{
 
 
 body:before{background-image:url(toyama.jpg);
+     display:block;
      background-repeat:no-repeat;
      background-position: center center;
      background-size:cover;
